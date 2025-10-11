@@ -10,6 +10,10 @@
 
 ###
 
+<h2 align="center">Hey there 👋  <br>Code. Create. Improve. 🚀  <br>I'm Baxtiyar — Android Developer.</h2>
+
+###
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -20,12 +24,8 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:Baxtiyar09?theme=sketch-1&padding=1&scale=0.7&align=center&pixelated=1&darkmode=0"  />
+  <img src="https://count.getloli.com/@:Baxtiyar09?theme=sketch-1&padding=1&scale=0.6&align=center&pixelated=1&darkmode=0"  />
 </div>
-
-###
-
-<h2 align="center">Hey there 👋  <br>Code. Create. Improve. 🚀  <br>I'm Baxtiyar — Android Developer.</h2>
 
 ###
 
@@ -86,12 +86,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Baxtiyar09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Baxtiyar09&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Baxtiyar09.Baxtiyar09&left_color=darkviolet&right_color=blue"  />
 </div>
 
 ###
